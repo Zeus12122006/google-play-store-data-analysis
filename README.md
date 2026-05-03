@@ -81,4 +81,13 @@ Từ đó, có thể kết luận rằng nên tập trung vào các category có
 ---
 
 ## 🚀 Project Structure
+project/
+│
+├── analysis.ipynb # notebook chính
+├── README.md # mô tả project
+└── dataset.csv # dữ liệu
 
+---
+
+## 📌 Conclusion
+Dữ liệu cho thấy chất lượng ứng dụng nhìn chung khá tốt. Tuy nhiên, để đưa ra quyết định chính xác, cần xem xét đồng thời nhiều yếu tố như rating, số lượng reviews và category thay vì chỉ dựa vào một chỉ số đơn lẻ.
