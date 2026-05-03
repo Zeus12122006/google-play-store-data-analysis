@@ -81,12 +81,14 @@ Từ đó, có thể kết luận rằng nên tập trung vào các category có
 ---
 
 ## 🚀 Project Structure
+
+```
 project/
 │
 ├── analysis.ipynb # notebook chính
 ├── README.md # mô tả project
 └── dataset.csv # dữ liệu
-
+```
 ---
 
 ## 📌 Conclusion
